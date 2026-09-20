@@ -1,0 +1,8 @@
+{
+  "name": "Remix Secure Docs",
+  "description": "Secure Digital Document \u0026 Evidence Intelligence Platform for law enforcement, courts, and forensic agencies with adaptive security, SHA-256 integrity verification, and tamper detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
